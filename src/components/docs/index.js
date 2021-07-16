@@ -70,7 +70,7 @@ export default function Docs() {
           </div>
           <div className="pl-16 flex mb-3">
             <FileIcon />
-            <span className="pl-2">index.module.css</span>
+            <span className="pl-2">style.module.css</span>
           </div>
           <div className="pl-16 flex mb-3">
             <JsIcon />
@@ -194,7 +194,7 @@ export default function Docs() {
           </div>
           <div className="flex flex-wrap md:flex-nowrap pl-6 mt-6">
             <FileIcon />
-            <span className="px-2 font-medium">index.module.css</span> :
+            <span className="px-2 font-medium">style.module.css</span> :
             <p className="pl-1">
               This style sheet is used to make the scrollbar invisible for the
               sidenav.
@@ -299,7 +299,7 @@ export default function Docs() {
           The sidenav scrollbar is hidden by default but you can still scroll
           with the keyboards if you have several sidenav-items. If you are not a
           fan of this approach, you can always change its style in the
-          <span className="px-1 font-medium">index.module.css</span>file
+          <span className="px-1 font-medium">style.module.css</span>file
         </p>
         <p className="mt-5">
           In the<span className="px-1 font-medium">dashboard/layout.js</span>
