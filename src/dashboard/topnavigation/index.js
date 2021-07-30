@@ -62,7 +62,7 @@ export default function TopNavigation() {
             <a href="#" className="block relative">
               <img
                 alt="profile"
-                src="https://i.pinimg.com/236x/70/9a/d9/709ad91d300840a119965c6a2eab83bd.jpg"
+                src="/images/1.jpg"
                 className="h-10 mx-auto object-cover rounded-full w-10"
               />
             </a>
